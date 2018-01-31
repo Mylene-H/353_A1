@@ -1,0 +1,9 @@
+353, Databases, 4
+354, Intro to Software Engineering, 4
+346, Operating Systems, 4
+353, Databases, 4
+354, Intro to Software Engineering, 4
+346, Operating Systems, 4
+353, Databases, 4
+354, Intro to Software Engineering, 4
+346, Operating Systems, 4

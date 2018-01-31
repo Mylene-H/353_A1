@@ -1,0 +1,12 @@
+26767893, Mylene Haurie, CompSci, 123 Sunny ave
+26677266, LS Carle, CompSci, 75 Sunset blvd
+28158274, John Smith, Engineering, 829 Melrose
+21057289, Samuel Freedman, Engineering, 511 3rd ave
+26767893, Mylene Haurie, CompSci, 123 Sunny ave
+26677266, LS Carle, CompSci, 75 Sunset blvd
+28158274, John Smith, Engineering, 829 Melrose
+21057289, Samuel Freedman, Engineering, 511 3rd ave
+26767893, Mylene Haurie, CompSci, 123 Sunny ave
+26677266, LS Carle, CompSci, 75 Sunset blvd
+28158274, John Smith, Engineering, 829 Melrose
+21057289, Samuel Freedman, Engineering, 511 3rd ave
